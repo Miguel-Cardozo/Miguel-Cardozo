@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Miguel Cardozo
+# 👋 Olá! Eu sou o Miguel Cardozo Gomes 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC)  
 💻 Técnico em Desenvolvimento de Sistemas (ETEC)  
