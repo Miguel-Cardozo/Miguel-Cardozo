@@ -1,4 +1,5 @@
-# Miguel Cardozo Gomes
+
+![teste](./github-header-banner.png)
 
 
 Sou jovem Aprendiz de TI na **Telefónica Tech** (Vivo Empresas), onde trabalho com redes, automação de processos e banco de dados. Estudo Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba e sou técnico em Desenvolvimento de Sistemas pela ETEC.
