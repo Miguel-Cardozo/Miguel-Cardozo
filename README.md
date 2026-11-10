@@ -1,12 +1,15 @@
 # Miguel Cardozo Gomes
 
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba e técnico em Desenvolvimento de Sistemas pela ETEC. Moro em Cajamar, SP.
 
-Gosto de back-end e banco de dados: modelar tabelas, escrever consultas e fazer a parte que o usuário não vê funcionar direito. Estou procurando [estágio / primeira oportunidade] na área de desenvolvimento.
+Sou jovem Aprendiz de TI na **Telefónica Tech** (Vivo Empresas), onde trabalho com redes, automação de processos e banco de dados. Estudo Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba e sou técnico em Desenvolvimento de Sistemas pela ETEC.
 
-<br>
+Comecei pelo código e fui parar na infraestrutura: hoje o que mais me interessa é entender como as coisas se conectam e como fazer tarefas repetitivas rodarem sozinhas. 
 
-## Stack
+Cajamar-SP
+
+
+
+## Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,27 +20,19 @@ Gosto de back-end e banco de dados: modelar tabelas, escrever consultas e fazer 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+
+
 
 ## Projetos
 
-**Vida TEA** (TCC da ETEC, em grupo)
-App mobile de apoio a famílias de crianças com Transtorno do Espectro Autista: grupo de apoio entre pais, localizador de clínicas próximas e chat para tirar dúvidas com especialistas. Fiquei com o back-end e o banco de dados MySQL.
-`React Native` `Expo` `MySQL`
-[Ver repositório](link-do-repo)
+**Vida TEA**, TCC da ETEC, em grupo
+App mobile de apoio a famílias de crianças com TEA. Fui responsável pelo back-end e pelo banco de dados MySQL.
 
-**[Nome do projeto atual da Fatec]**
-[Uma ou duas frases sobre o problema que ele resolve e o que você faz nele.]
-[Ver repositório](link-do-repo)
 
-<br>
+**Portfólio com API REST**
+API em ASP.NET Core com Entity Framework e SQLite, mais aplicações em JavaScript com CRUD.
+[Ver portfólio](https://miguel-cardozo.github.io/miguel-dev-landing/)
 
-## Estudando agora
-
-[Algo concreto, por exemplo: "modelagem de banco de dados e consultas mais complexas em SQL", "APIs com ASP.NET Core"]
-
-<br>
 
 ## Contato
-
 [miguelcardozogomes@gmail.com](mailto:miguelcardozogomes@gmail.com) · [LinkedIn](link-do-linkedin)
