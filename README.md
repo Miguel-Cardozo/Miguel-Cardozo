@@ -37,3 +37,12 @@ API em ASP.NET Core com Entity Framework e SQLite, mais aplicações em JavaScri
 
 ## Contato
 [miguelcardozogomes@gmail.com](mailto:miguelcardozogomes@gmail.com) · [LinkedIn](link-do-linkedin)
+
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Miguel-Cardozo/Miguel-Cardozo/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
